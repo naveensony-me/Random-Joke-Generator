@@ -5,12 +5,12 @@
     font-family: "Rubik",sans-serif;
 }
 body{
-    background-color: #f6f698;
+    background-color: #90cbb9;
 }
 .wrapper{
     width: 80vmin;
     padding: 50px 40px;
-    background-color: #8aa039;
+    background-color: #49bd57;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -34,7 +34,7 @@ p{
 }
 button{
     display: block;
-    background-color: #f6f698;
+    background-color: #cb1919;
     border: none;
     padding: 5px;
     font-size: 18px;
